@@ -5,9 +5,11 @@ I've always wanted a career doing something that I loved. Over the years what I 
 It's also present in coding and the problems I can help others solve. From building custom websites to online stores, engineering business managment tools; even creating educational platforms to make learning more fun for kids and so much more. Helping others achieve their dreams and goals is very meaningful to me, with coding I can build something to help not only today, but for many years to come.
 
 Contact me or check out my portfolio:
-Portfolio: https://april-hughes.com/
-Email: ahughes0389@gmail.com 
-LinkedIn: www.https://linkedin.com/in/april-hughes-web-dev/
+<ul>
+  <li>Portfolio: https://april-hughes.com/</li>
+  <li>Email: ahughes0389@gmail.com</li>
+  <li>LinkedIn: www.https://linkedin.com/in/april-hughes-web-dev/</li>
+</ul>
 
 <!---
 dreydain/dreydain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
